@@ -4,7 +4,7 @@ Project performs API Testing of the site [reqres.in](https://reqres.in/) using P
 
 ## Installation
 
-Download the package from [Github](https://github.com/rathorsunpreet/playwrightTest) and unzip it.
+Download the package from [Github](https://github.com/rathorsunpreet/Python_API_Checks) and unzip it.
 
 ```console
 # Create virtual environment
