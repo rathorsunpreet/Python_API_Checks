@@ -20,7 +20,7 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 
 # Installs dependencies
-pip -r requirements.txt 
+pip install -r requirements.txt 
 ```
 ## Usage
 
